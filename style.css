@@ -1,3 +1,26 @@
-p {
-  color: red;
+
+html {
+  color:#ecece6;
+  background-color:#282a36;
+  font-size: 18px; /* px means "pixels": the base font size is now 10 pixels high  */
+  font-family: 'Baloo Tamma 2', cursive;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+
+p, li {
+  font-size: 18px;    
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+
+body {
+  width: 1000px;
+  margin: 0 auto; 
+  background-color: #273250;
+  padding: 0 20px 20px 20px;
 }
