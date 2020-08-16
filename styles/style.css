@@ -9,12 +9,14 @@ html {
 h1 {
   margin: 0;
   font-size: 60px;
+  padding: 0;
   text-align: center;
+  text-shadow: 3px 3px 2px blue;
 }
 
 p, li {
   font-size: 18px;    
-  line-height: 2;
+  line-height: 1.5;
   letter-spacing: 1px;
 }
 
