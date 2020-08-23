@@ -6,24 +6,31 @@ html {
   font-family: 'Baloo Tamma 2', cursive;
 }
 
-h1 {
-  margin: 0;
-  font-size: 60px;
-  padding: 0;
+body{
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  background-color: rgb(9, 9, 43);
   text-align: center;
-  text-shadow: 3px 3px 2px blue;
 }
 
-p, li {
-  font-size: 18px;    
+header{
+  background: url(header.jpg) no-repeat center;
+  height: 200px;
+  text-align: center;
+
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+}
+
+section {
+  padding: 20px;
+}
+
+p{
   line-height: 1.5;
-  letter-spacing: 1px;
-}
-
-
-body {
-  width: 1000px;
-  margin: 0 auto; /*first value for top and bottom, second value for right and left*/
-  background-color: #273250;
-  padding: 0 20px 20px 20px;
 }
