@@ -86,17 +86,20 @@ nav{
 /* Boxes area */
 #boxes{
     text-align: center;
-    margin-top:20px;
+    /*margin-top:20px;     */
+    margin:auto;
+    
 }
 
 #boxes .box{
     float: left;
     width: 30%;
-    padding:10px; 
+    padding:30px; 
 }
 #boxes .box img{
-    width: 150px;
-    height: 140px;
+    text-align:center;
+    width: 100px;
+    height: 80px;
 }
 
 
