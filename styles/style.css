@@ -9,18 +9,20 @@ body{
     margin:0;
     background-color: #052869;
 }
-a{
-    text-decoration: none;
-}
-
-/* a:hover{
+a:hover{
     color: rgb(218, 223, 209);
     font-weight: bolder;
-} */
+}
 
 a:visited{
     color:rgb(212, 224, 35);
 }
+a{
+    text-decoration: none; 
+    color: rgb(95, 216, 14);
+}
+
+
 
 .container{
     width: 80%;
@@ -65,7 +67,6 @@ header #logo h1{
 
 header .highlight, header .current a{
     color: #ecf010;
-    font-weight: bolder;
 }
 
 nav{
@@ -103,15 +104,17 @@ nav{
     width: 30%;
     padding:20px; 
 }
+
 #boxes .box img{
     text-align:center;
     width: 100px;
     height: 80px;
 }
-#boxes .box a h3{
-    font-size: bolder;
-}
 
+/* #boxes .box a h3{
+    font-size: ;
+}
+*/
 
 footer{
     padding:20px;
