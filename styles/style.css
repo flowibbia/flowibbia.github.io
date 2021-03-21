@@ -27,7 +27,7 @@ a{
 
 article{
     font: 18/2 Arial, Helvetica, sans-serif;
-    font-size: larger;
+    font-size: 18px;
 }
 
 article h2{
@@ -97,13 +97,9 @@ nav img{
 
 .showcase{
     width: auto;
-    font-size: 20px;
+    font-size: 18px;
 }
-.showcase p{
-    /* margin-right: 10%; */
-    /* margin-left: 10%; */
 
-}
 
  
 .showcase h1{
