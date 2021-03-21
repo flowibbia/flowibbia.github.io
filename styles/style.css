@@ -1,46 +1,56 @@
 
 /* Global*/
 html{
-    color: #e2e0d8;
+    color: #f3f1e8;
 }
 body{
-    font: 18/1.5 Arial, Helvetica, sans-serif;
+    font: 18/2 Arial, Helvetica, sans-serif;
     padding:0;
-    margin:0;
-    background-color: #052869;
+    background-color: #032a64;
+    margin-bottom: 200px;
 }
+a:visited{
+
+    color:rgb(212, 224, 35);
+}
+
 a:hover{
-    color: rgb(218, 223, 209);
+    color: rgb(186, 224, 113);
     font-weight: bolder;
 }
 
-a:visited{
-    color:rgb(212, 224, 35);
-}
 a{
     text-decoration: none; 
-    color: rgb(95, 216, 14);
+    color: rgb(81, 190, 8);
 }
 
 
+article{
+    font: 18/2 Arial, Helvetica, sans-serif;
+    font-size: larger;
+}
 
+article h2{
+    color:rgb(193, 243, 114);
+    
+}
 .container{
     width: 80%;
     margin:auto;
     overflow:hidden;
 }
 
-header ul{
-    margin:0;
-    padding:0; 
-}
 
 /* Header */
 header {
     background: #011946; 
-    padding: 30px; 
+    padding: 20px; 
     min-height: 60px;
     border-bottom: #010e25 3px solid;
+}
+.showcase{
+    
+    border-bottom: #010e25 3px ;
 }
 
 header a {
@@ -66,9 +76,15 @@ header #logo h1{
     margin:0;
 }
 
-header .highlight, header .current a{
-    color: #ecf010;
+header .highlight {
+    
+    color: #df6e04;
 }
+header .current a{
+    color:rgb(212, 224, 35);
+
+}
+
 
 nav{
     float:right;
@@ -80,21 +96,26 @@ nav img{
 }
 
 .showcase{
-    /* min-height: 400px; */
     width: auto;
-    font-size: 18px;
-    /* text-align: center; */
+    font-size: 20px;
+}
+.showcase p{
+    /* margin-right: 10%; */
+    /* margin-left: 10%; */
+
 }
 
+ 
 .showcase h1{
-    margin-top:100px;
+    color:rgb(207, 139, 13);
+    margin-top:10px;
     font-size: 40px;
     margin-bottom: 10px;
     text-align:center;
 }
-.showcase ul{
-     font-size: 18px;
-}
+/* .showcase p{
+     font-size: 20px;
+} */
 
 
 /* Boxes area */
@@ -108,6 +129,7 @@ nav img{
     float: left;
     width: 30%;
     padding:20px; 
+
 }
 
 #boxes .box img{
@@ -122,9 +144,21 @@ nav img{
 }
 */
 
-footer{
+/* footer {
+  position: fixed;
+  padding: 20px;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color:#011946;
+  color: white;
+  border-top:#010a1b 3px solid;
+} */
+
+/* footer{
+
     padding:20px;
     margin-top:20px;
     background-color:#041e4e;
     text-align: center;
-}
+} */
