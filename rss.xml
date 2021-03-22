@@ -1,18 +1,18 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <channel>
 <title>ablant.xyz</title>
-<description>Updates from ablant.xyz</description>
+<description>updates from flowibbia.github.io</description>
 <language>it</language>
-<link>https://ablant.xyz/rss.xml</link>
+<link>https://flowibbia.github.io/rss.xml</link>
 <atom:link href="https://flowibbia.github.io/rss.xml" rel="self" type="application/rss+xml"/>
 <!--  Lista Items  -->
 <item>
-<title>VDSI - Malconfigurazione /etc/sudoers</title>
+<title>Libreria aggiornata</title>
 <guid isPermaLink="false">flowibbia.github.io/content/my_book/my_book.html</guid>
 <pubDate> Mon, 22 Mar 2021 +0100</pubDate>
 <link>https://flowibbia.github.io/content/my_book/my_book.html</link>
 <description>
-<![CDATA[ <p>Aggiornato contenuto della mia libreria. </p> ]]>
+<![CDATA[ <p>Aggiornato contenuto della mia libreria, test rss </p> ]]>
 </description>
 </item>
 
