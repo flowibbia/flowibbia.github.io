@@ -66,6 +66,10 @@ header li{
     padding: 0 10px 0 10px;
 }
 
+li span{
+    color:rgb(202, 134, 7)
+}
+
 
 header #logo {
     float: left;
