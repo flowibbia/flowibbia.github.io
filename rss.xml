@@ -9,17 +9,15 @@
 <item>
 <title>Libreria aggiornata</title>
 <guid isPermaLink="false">flowibbia.github.io/content/my_book/my_book.html</guid>
+
 <pubDate> Mon, 22 Mar 2021 +0100</pubDate>
 <link>https://flowibbia.github.io/content/my_book/my_book.html</link>
 <description>
 <![CDATA[ <p>Aggiornato contenuto della mia libreria, test rss </p> ]]>
 </description>
-</item>
-<item>
-<description>
 
-...
-</description>
 </item>
+
+
 </channel>
 </rss>
