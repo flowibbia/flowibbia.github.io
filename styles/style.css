@@ -11,6 +11,16 @@ body{
     margin-bottom: 200px;
 
 }
+h1,h2{
+    color:rgb(207, 139, 13);
+    
+}
+
+/* h2{
+     color:rgb(193, 243, 114); 
+    color:rgb(202, 134, 7)
+} */
+
 a:visited{
 
     color:rgb(212, 224, 35);
@@ -26,16 +36,17 @@ a{
     color: rgb(81, 190, 8);
 }
 
+a h1 {
+    text-decoration: none; 
+    color: rgb(81, 190, 8);
+}
 
 article{
     font: 18/2 Arial, Helvetica, sans-serif;
     font-size: 16px;
 }
 
-article h2{
-    color:rgb(193, 243, 114);
-    
-}
+
 .container{
     max-width: 1200px;
     margin:auto;
@@ -104,10 +115,6 @@ nav img{
     width: auto;
     font-size: 16px;
 }
-
-
-
-
  
 .showcase h1{
     color:rgb(207, 139, 13);
@@ -119,6 +126,7 @@ nav img{
 /* .showcase p{
      font-size: 20px;
 } */
+
 
 
 /* Boxes area */
